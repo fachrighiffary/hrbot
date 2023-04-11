@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485661293504",
+    "project_id": "ruparupa-d6c73",
+    "storage_bucket": "ruparupa-d6c73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485661293504:android:ffb9022a447d3a9c2ce625",
+        "android_client_info": {
+          "package_name": "com.modulechatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485661293504-h7u3bqpgvtur7ltm3qcvqmu2l3c288f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7xjUS07vbWqePR4gH--8RmjLKbsO8cv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485661293504-h7u3bqpgvtur7ltm3qcvqmu2l3c288f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
