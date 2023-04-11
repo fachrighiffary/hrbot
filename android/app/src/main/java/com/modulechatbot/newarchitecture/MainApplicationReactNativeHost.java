@@ -1,4 +1,4 @@
-package com.modulechatbot.newarchitecture;
+package com.HRBot.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.modulechatbot.BuildConfig;
-import com.modulechatbot.newarchitecture.components.MainComponentsRegistry;
-import com.modulechatbot.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.HRBot.BuildConfig;
+import com.HRBot.newarchitecture.components.MainComponentsRegistry;
+import com.HRBot.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

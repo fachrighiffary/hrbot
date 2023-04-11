@@ -1,4 +1,4 @@
-package com.modulechatbot.newarchitecture.modules;
+package com.HRBot.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

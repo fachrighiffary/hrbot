@@ -1,4 +1,4 @@
-package com.modulechatbot;
+package com.HRBot;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
